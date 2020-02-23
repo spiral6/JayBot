@@ -1,0 +1,3 @@
+pyyaml
+praw
+discord.py
